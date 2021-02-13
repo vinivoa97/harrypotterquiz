@@ -4,25 +4,39 @@
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://img.elo7.com.br/product/zoom/24A98BE/quadro-poster-harry-potter-a-pedra-filosofal-harry-potter-e-a-pedra-filosofal.jpg",
+        "title": "Qual é o nome original do primeiro filme de Harry Potter?",
+        "description": "Como tá seu inglês?",
+        "answer": 1,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Harry Potter and the Beauty's Stone",
+          "Harry Potter and the Philosopher's Stone",
+          "Harry Poter and the Philosopher's Stone",
+          "Harry Potter and the Cursed Stone"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://uploads.metropoles.com/wp-content/uploads/2020/08/26154711/Expresso-de-Hogwarts-RED-600x400.jpg",
+        "title": "Qual nome da plataforma usada para entra no mundo bruxo?",
+        "description": "Cuidado para o portal não fechar!!",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "9 3/4",
+           "1 2/4",
+           "9 /24",
+           "6 6/7"
+        ]
+      },
+      {
+        "image": "https://poltronanerd.com.br/wp-content/uploads/2016/06/daniel-radcliffe-to-star-in-grand-theft-auto-movie-reports-94256_1-350x250.jpeg",
+        "title": "Qual o nome da namoradx de Harry Potter?",
+        "description": "Gostaria de baile ir comigo ir?",
+        "answer": 2,
+        "alternatives": [
+           "Draco Malfoy",
+           "Hermione",
+           "Gina Weasley",
+           "Luna Lovegood"
         ]
       }
     ],
@@ -33,7 +47,7 @@
       "colors": {
         "primary": "#b28035",
         "secondary": "#dce775",
-        "mainBg": "#171B35",
+        "mainBg": "#1C1814",
         "contrastText": "#FFFFFF",
         "wrong": "#FF5722",
         "success": "#4CAF50"
